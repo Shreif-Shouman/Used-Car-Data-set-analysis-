@@ -10,7 +10,7 @@
 
 * Starting with some descriptive Statistics.
 * Correlation Analysis and Heatmap
-* Dimensionality Reduction:
-                * PCA dimensionality reduction with k-means clustering
-                * PCA
-                * TSNE
+* Dimensionality Reduction
+* PCA dimensionality reduction with k-means clustering
+* Applying PCA
+* Applying TSNE
