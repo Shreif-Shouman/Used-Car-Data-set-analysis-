@@ -1,7 +1,14 @@
-# VA_project
-## Dataset
+# Visual Analytics of Used Car Prices 🚗
 
-* What is the dataset about?
-* Prices of used cars along with features like mpg, engine size, etc. Dataset contains numerical and categorical features in order to be easy for visualization. This is dataset is about 100,000 listings, which have been separated into files corresponding to each car manufacturer.
-* Where did you get this dataset from (i.e., source of the dataset)?
+## Project Overview 🌟
+This repository contains an in-depth analysis of used car prices across various models and manufacturers. By exploring relationships between car features such as mileage, engine size, year, and price, we aim to uncover trends and insights that could assist buyers and sellers in the used car market.
+
+## Dataset Description 📚
+The dataset comprises about 100,000 listings of used cars, categorized by the car manufacturer. Each file corresponds to a specific car model and includes features like price, mileage, engine size, and more. The data is rich in both numerical and categorical types, making it ideal for visual analytics.
 * Kaggle [https://www.kaggle.com/adityadesai13/used-car-dataset-ford-and-mercedes?select=vw.csv]
+
+## Installation and Setup 🔧
+Clone this repository and install the required Python packages to replicate the analysis:
+
+
+
