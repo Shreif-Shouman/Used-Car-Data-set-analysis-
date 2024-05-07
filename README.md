@@ -8,7 +8,7 @@ The dataset comprises about 100,000 listings of used cars, categorized by the ca
 * Kaggle [https://www.kaggle.com/adityadesai13/used-car-dataset-ford-and-mercedes?select=vw.csv]
 
 ## Installation and Setup 🔧
-Clone this repository and install the required Python packages to replicate the analysis:
+Clone this repository and install the required Python packages to replicate the analysis
 
 ## Key Insights 💡
 * Price Distribution: Analyze how car prices are distributed and what factors most significantly affect the price.
