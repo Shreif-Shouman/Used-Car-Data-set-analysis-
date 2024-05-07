@@ -10,7 +10,7 @@ The dataset comprises about 100,000 listings of used cars, categorized by the ca
 ## Installation and Setup 🔧
 Clone this repository and install the required Python packages to replicate the analysis:
 
-##Key Insights 💡
+## Key Insights 💡
 * Price Distribution: Analyze how car prices are distributed and what factors most significantly affect the price.
 * Popularity by Model: Discover which models are most popular in the used car market.
 * Sales Distribution Over Years: Explore how car sales trends have changed over recent years.
@@ -21,3 +21,8 @@ Our analysis includes several key visualizations:
 * Scatter Plots: Illustrate the relationship between mileage and price.
 * Bar Charts: Highlight the most popular car models.
 
+## Advanced Analysis 📈
+We delve deeper with techniques like PCA and t-SNE to explore data dimensionality reduction:
+
+* PCA (Principal Component Analysis): Attempts to capture the essence of data by reducing dimensions.
+* t-SNE (t-Distributed Stochastic Neighbor Embedding): Used for visualizing high-dimensional data.
