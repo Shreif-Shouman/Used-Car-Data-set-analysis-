@@ -10,5 +10,14 @@ The dataset comprises about 100,000 listings of used cars, categorized by the ca
 ## Installation and Setup 🔧
 Clone this repository and install the required Python packages to replicate the analysis:
 
-
+##Key Insights 💡
+* Price Distribution: Analyze how car prices are distributed and what factors most significantly affect the price.
+* Popularity by Model: Discover which models are most popular in the used car market.
+* Sales Distribution Over Years: Explore how car sales trends have changed over recent years.
+  
+## Visualizations 📊
+Our analysis includes several key visualizations:
+* Histograms: Show the distribution of car prices.
+* Scatter Plots: Illustrate the relationship between mileage and price.
+* Bar Charts: Highlight the most popular car models.
 
